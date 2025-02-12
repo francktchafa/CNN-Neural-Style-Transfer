@@ -11,7 +11,7 @@ The steps implemented in this code are as follows:
     2. Compute the costs: content, style, and total cost
     3. Define the optimizer and learning rate
     7. Train the model
-5. Test with your picture
+5. After trating, you can test with your picture
 """
 
 from utils_nst import *
