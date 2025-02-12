@@ -1,1 +1,1 @@
-Art generation using Neural Style Transfer (NST)
+This repository presents a project on Neural Style Transfer using Convolutional Neural Networks (CNN) with the VGG19 architecture. This technique blends a content image with a style image, resulting in an output image that looks like the content image painted in the style of the other.
